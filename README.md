@@ -1,2 +1,2 @@
 # kalman-pairs-trading
-Repository for WiDS project on Pairs Trading
+Repository for project on Pairs Trading
