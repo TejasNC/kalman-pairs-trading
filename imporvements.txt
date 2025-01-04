@@ -1,0 +1,2 @@
+1) We are using Z-Scores on Spread/Ratio to generate signals. This might give incorrect results as we are assuming that the distribution is normal. The true distribution of ratios could be very fat-tailed and prone to extreme values messing up our model and resulting in large losses.
+

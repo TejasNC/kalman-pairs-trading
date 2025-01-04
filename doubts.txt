@@ -1,0 +1,21 @@
+1) What is so speacial about 0.5 in Hurst Test.
+2) 
+
+
+TODOs:
+
+1) There are a lot of interesting ideas around Hurst Exponents as well. Explore that.
+2) How to choose the values of R and Q? 
+3) Explore the math behind Half Life.
+
+
+Parameters to Report:
+
+    Aggregage Performance Parameters
+
+        1) Turnover: should be less than 40%.
+        2) Drawdown
+        3) Sharpe Ratio
+        4) PnL
+
+    

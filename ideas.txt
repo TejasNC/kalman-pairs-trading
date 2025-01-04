@@ -1,0 +1,26 @@
+1) Use AuQuan Tool Box
+https://github.com/Auquan/auquantoolbox
+
+2)  Divide the time into 2:
+        - Testing period
+        - Formation period
+
+    To generate pairs for the portfolio
+
+    - Find pairs by using Euclidean Distance Method on Cumulative Returns on Group of Stocks which you belive will 
+    - Check for Co-Integration
+    - ADF Test
+    - Hurst Exponent Test
+
+    Also check the number of Zero-Crossings of the Spread  and Half Life For Mean Reversion (should be low)
+
+    Check the percentage of time within the 2 Standard Deviation band of the Spread of the two stocks. If too much time is spent outside, then pair is diverged too much for too long and trading is avoided.
+
+3) Using Higher Frequency Dataa
+
+4) When checking for possible pairs, also add Index to the data to help eliminate any false pair appreance due to overall market movement.
+
+5) 
+    Log Prices
+    Volatility Adjustment
+        
